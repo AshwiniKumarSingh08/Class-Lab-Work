@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+<title>Assignment 4 Q1</title>
+ <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css
+/bootstrap.min.css">
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.
+js"></script>
+ <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js">
+</script>
+<style>
+</style>
+</head>
+<body>
+<div class="container">
+<div class="row">
+<div class="col bg-primary text-secondary" style="border-style:solid">1st Col</div>
+<div class="col bg-secondary text-primary" style="border-style:solid">2nd Col</div>
+</div>
+<div class="row">
+<div class="col bg-success text-danger" style="border-style:solid">3rd Col</div>
+<div class="col bg-danger text-warning" style="border-style:solid">4th Col</div>
+<div class="col bg-warning text-success" style="border-style:solid">5th Col</div>
+</div>
+<div class="row">
+<div class="col-sm bg-info text-light" style="border-style:solid">6th Col</div>
+<div class="col-sm bg-dark text-light" style="border-style:solid">7th Col</div>
+<div class="col-sm bg-light text-dark" style="border-style:solid">8th Col</div>
+<div class="col-sm bg-success text-dark" style="border-style:solid">9th Col</div>
+</div>
+<div class="row">
+<div class="col-md bg-warning text-danger" style="border-style:solid">10th Col</div>
+<div class="col-md bg-info text-dark" style="border-style:solid">11th Col</div>
+<div class="col-md bg-light text-dark" style="border-style:solid">12th Col</div>
+<div class="col-md bg-primary text-warning" style="border-style:solid">13th Col</div>
+<div class="col-md bg-danger text-info" style="border-style:solid">14th Col</div>
+</div>
+
+</div>
+</body>
+</html>
