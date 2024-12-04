@@ -15,7 +15,7 @@ js"></script>
 <script>
 $(document).ready(function(){
 	$("button").click(function(){
-		$("img").removeClass("img-thumbnail").addClass("rounded-circle");
+		$("img").addClass("rounded-circle");
 	});
 });
 </script
